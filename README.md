@@ -3,6 +3,7 @@ An RTS game demo which was made as a test task for the entry level game dev posi
 
 Assets origin:
 [tf3dm](https://tf3dm.com)
+
 [brackeys](https://brackeys.com)
 
 Icons:
